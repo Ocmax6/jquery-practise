@@ -1,0 +1,18 @@
+
+input {
+    color: rgb(20, 151, 107);
+    display: block;
+    padding: 4px 7px;
+    margin: 14px 7px;
+}
+button {
+    background: cornflowerblue;
+    color: rgb(244, 245, 247);
+    display: block;
+    padding: 4px 7px;
+    margin: 14px 7px;
+}
+.form-box {
+    margin: 3px 4px;
+    padding: 2px 4px;
+}
